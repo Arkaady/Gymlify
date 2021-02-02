@@ -18,8 +18,6 @@ Workout app designed for people practicing sport. Workout notes and personal tra
 <li>💪 Trainings history divided into months</li>
 <li>💪 BMI calculator</li>
 </ul>
-### Privacy Policy
-[Provacy Policy](https://arkaady.github.io/Gymlify/privacy_policy)
 
 <h1>Privacy Policy</h1>
 <p>Last updated: February 02, 2021</p>
