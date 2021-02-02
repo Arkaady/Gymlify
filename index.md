@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Gymlify
 
-You can use the [editor on GitHub](https://github.com/Arkaady/Gymlify/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Workout app designed for people practicing sport. Workout notes and personal trainer in your phone! The best free app for tracking your workout progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+💪 over 150 ready-made exercises, machine exercises, free-weight exercises, bodyweight exercises, resistant band exercises, home or gym workout</br>
+💪 The ability to add your own exercises</br>
+💪 Graphs precisely showing the muscles involved during the exercise</br>
+💪 Over 20 ready-made, free training sets, divided according to level of advancement and purpose of training. Training sets both for beginners and advanced.</br>
+💪 Statistics for each exercise</br>
+💪 Exercises guide</br>
+💪 The ability of copying the load and repetitions from previous workouts, thanks to which the use of the applications is even faster! You will not forget what load you have had recently!</br>
+💪 The ability to add your own training plans</br>
+💪 Statistics after training – training time, number of sets, number of exercises and repetitions</br>
+💪 Accurate statistics of the increased weight divided into muscle parts</br>
+💪 Personal records – adding own records and automatic reading from finished workout</br>
+💪 Body measurements</br>
+💪 Counter counting the time of exercise or breaks between sets</br>
+💪 Trainings history divided into months</br>
+💪 BMI calculator</br>
 
-### Markdown
+### Privacy Policy
+[Provacy Policy](url)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arkaady/Gymlify/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Gymlify app? Contact us apmobilesoftware@gmail.com
